@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/CookingRecipeApp/app/src/main/res/drawable/bg_corners_blur.xml" value="0.1115" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/CookingRecipeApp/app/src/main/res/drawable/bg_corners_mint.xml" value="0.1115" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/CookingRecipeApp/app/src/main/res/drawable/bg_corners_white.xml" value="0.1115" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/CookingRecipeApp/app/src/main/res/drawable/ic_star.xml" value="0.1115" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/CookingRecipeApp/app/src/main/res/layout/activity_home.xml" value="0.4068965517241379" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/CookingRecipeApp/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
       </map>
     </option>
